@@ -12,14 +12,14 @@ permalink: /
 
 # Welcome to the Speech Sciences Laboratory at UFBA!
 
-Our Lab aims to to to to to....  through the discovery of ..... Over the past few years there has been rapid progress in identifying ..... We aim to continue this progress, leverage these findings to build a more complete understanding of ....., and to extend this approach to other human disorders, including congenital malformations.
+Our Lab aims to ...  through the discovery of ..... Over the past few years there has been rapid progress in identifying ..... We aim to continue this progress, leverage these findings to build a more complete understanding of ....., and to extend this approach to other human disorders, including congenital malformations.
 
-<img align="left" src="/images/centro-grupo.png" width="300">
+<img align="left" src="/images/centro-grupo.png" width="340">
 Our lab. also hosts a **Center for Bilingualism and Complexity Studies** and a **Study Group**. Check our tabs!
 <br clear="left"/>
 
 
-There are five main areas of research:
+LaFALA has five main areas of research:
 
 1. **Language Acquisition**: ....
 2. **Language Attritio**: ...
@@ -33,10 +33,10 @@ The Lab is primarily a Laboratory Phonology group that uses a wide range of tool
 We work with closely with numerous collaborators, including [LABICO](https://www.mstatelab.com/) at UFRGS and [NUPFFALE](https://benderlab.ucsf.edu/lab-members) at UFSC, the [xxxx](https://www.psychiatry.pitt.edu/about-us/our-people/faculty/bernie-j-devlin-phd) at xxx
 
 ### Joining the Lab
-If you are interested in joining please go to the [recruitment](recruitment) page.
+If you are interested in joining us please go to the [recruitment](recruitment) page.
 
 ### Funding
-We are grateful for funding from the [National ....](https://www.nimh.nih.gov/) and the [xxxx](https://www.sfari.org/), the [xxxx](https://autismsciencefoundation.org/), and the [xxxxx](https://www.bbrfoundation.org/).
+We are grateful for funding from the [he National Council for Scientific and Technological Development (CNPq)](https://www.gov.br/cnpq/pt-br) and the [Coordination for the Improvement of Higher Education Personnel](https://www.gov.br/capes/pt-br), and the [Fundação de Amparo à Pesquisa do Estado da Bahia](http://www.fapesb.ba.gov.br/).
 
 <figure class="third">
 <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_NIMH.png" style="width: 200px">	<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_SFARI.png" style="width: 200px">
