@@ -7,7 +7,7 @@ permalink: /
 ---
 
 <p align="left">
-  <img src="/images/lafalacebc.png" width="750"/>
+  <img src="/images/lafalacebc.png" width="700"/>
 </p>
 
 # Welcome to LaFALA - Speech Sciences Laboratory at UFBA, Brazil.
