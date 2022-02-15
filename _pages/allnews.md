@@ -1,7 +1,7 @@
 ---
-title: "Sanders Lab - News"
+title: "LaFALA - News"
 layout: textlay
-excerpt: "Sanders Lab at UCSF."
+excerpt: "LaFALA at UFBA."
 sitemap: false
 permalink: /allnews.html
 ---
