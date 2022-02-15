@@ -39,7 +39,7 @@ We work with closely with numerous collaborators, including [LABICO](https://www
 If you are interested in joining us please go to the [recruitment](recruitment) page.
 
 ### Funding
-We are grateful for funding from the [he National Council for Scientific and Technological Development (CNPq)](https://www.gov.br/cnpq/pt-br) and the [Coordination for the Improvement of Higher Education Personnel](https://www.gov.br/capes/pt-br), and the [Fundação de Amparo à Pesquisa do Estado da Bahia](http://www.fapesb.ba.gov.br/).
+We are grateful for funding from the [National Council for Scientific and Technological Development (CNPq)](https://www.gov.br/cnpq/pt-br) and the [Coordination for the Improvement of Higher Education Personnel](https://www.gov.br/capes/pt-br), and the [Fundação de Amparo à Pesquisa do Estado da Bahia](http://www.fapesb.ba.gov.br/).
 
 <figure class="third">
 <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_NIMH.png" style="width: 200px">	<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_SFARI.png" style="width: 200px">
