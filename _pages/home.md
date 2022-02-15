@@ -18,6 +18,7 @@ Our Lab aims to ...  through the discovery of ..... Over the past few years ther
 <br/>
 
 <img align="left" src="/images/centro-grupo.png" width="340">
+<br/>
 Our lab. also hosts a **Center for Bilingualism and Complexity Studies** and a **Study Group**. Check our tabs!
 <br clear="left"/>
 
