@@ -5,10 +5,10 @@ position: Principal Investigator
 handle: stephansanders
 email: 
 twitter:
-github: sanderslab
+github: kupske
 scholar: O1EuSPYAAAAJ
 photo: felipekupske.jpg
-ucsf: stephan.sanders
+ucsf: 
 ---
 
 ### Overview
