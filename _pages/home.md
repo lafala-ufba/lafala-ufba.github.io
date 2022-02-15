@@ -7,14 +7,17 @@ permalink: /
 ---
 
 <p align="left">
-  <img src="/images/lafalacebc.png" width="650"/>
+  <img src="/images/lafala1.png" width="650"/>
 </p>
 
 # Welcome to the Speech Sciences Laboratory at UFBA!
 
 Our Lab aims to .... through the discovery of ..... Over the past few years there has been rapid progress in identifying ..... We aim to continue this progress, leverage these findings to build a more complete understanding of ....., and to extend this approach to other human disorders, including congenital malformations.
 
-The lab. hosts a **Center for Bilingualism and Complexity Studies** and a 
+<img align="right" src="/images/centro-grupo.png" width="150" height="150" alt="Kupske et al. (2021)">
+Our lab. also hosts a **Center for Bilingualism and Complexity Studies** and a **Study Group**.
+<br clear="right"/>
+
 
 There are five main areas of research:
 
@@ -40,9 +43,5 @@ We are grateful for funding from the [National ....](https://www.nimh.nih.gov/) 
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_ASF.jpeg" style="width: 200px"> <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_BBRF.png" style="width: 200px">
 </figure>
-
-
-
-
 
 
