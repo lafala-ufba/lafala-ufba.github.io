@@ -1,7 +1,7 @@
 ---
-title: "Sanders Lab - Team"
+title: "LaFALA - Team"
 layout: gridlay
-excerpt: "Sanders Lab: Team members"
+excerpt: "LaFALA: Team members"
 sitemap: false
 permalink: /team/
 ---
@@ -45,7 +45,7 @@ permalink: /team/
 
 ---
 
-## Trainee
+## Trainees and Graduate Students
 {% assign number_printed = 0 %}
 {% for member in site.data.team_members %}
 
@@ -78,7 +78,7 @@ permalink: /team/
 
 ---
 
-## Staff
+## Undergraduate Students
 {% assign number_printed = 0 %}
 {% for member in site.data.team_members %}
 
