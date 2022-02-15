@@ -10,9 +10,9 @@ permalink: /
   <img src="/images/lafala1.png" width="650"/>
 </p>
 
-<p align="center">
-### Welcome to the Speech Sciences Laboratory at UFBA!
-</p>
+
+## Welcome to the Speech Sciences Laboratory at UFBA!
+
 
 Our Lab aims to ...  through the discovery of ..... Over the past few years there has been rapid progress in identifying ..... We aim to continue this progress, leverage these findings to build a more complete understanding of ....., and to extend this approach to other human disorders, including congenital malformations.
 <br/>
