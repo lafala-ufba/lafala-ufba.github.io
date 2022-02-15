@@ -1,12 +1,12 @@
 ---
 layout: member
 title: Felipe F Kupske
-position: Principal Investigator
-handle: stephansanders
-email: 
+position: Director of LaFALA & Investigator
+handle: felipekupske
+email: kupske@gmail.com
 twitter:
 github: kupske
-scholar: O1EuSPYAAAAJ
+scholar: 
 photo: felipekupske.jpg
 ucsf: 
 ---
