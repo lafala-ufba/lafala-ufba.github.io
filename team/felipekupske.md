@@ -12,7 +12,7 @@ ucsf:
 ---
 
 ### Overview
-Dr. Sanders trained as a pediatric physician in the UK before undertaking a PhD and postdoctoral research position at Yale. He is now an Associate Professor at UCSF in the Department of Psychiatry. His research focuses on using genomics and bioinformatics to understand the etiology of developmental disorders, such as Autism Spectrum Disorder (ASD).
+Dr. Kupske .... He is now a Full Professor at UFBA in the Department of Language Studies. His research focuses on using genomics and bioinformatics to understand the etiology of developmental disorders, such as Autism Spectrum Disorder (ASD).
 
 ### Education
 - PhD, with distinction; Genetics, Yale University (2011-2014)
