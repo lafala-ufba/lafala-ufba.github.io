@@ -8,5 +8,5 @@ permalink: /cebic/
 
 
 <p align="center">
-  <img src="/images/logocentro.png" width="500"/>
+  <img src="/images/logocentro.png" width="300"/>
 </p>
