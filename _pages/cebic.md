@@ -1,6 +1,6 @@
 ---
 title: "LaFALA - CeBiC"
-layout: homelay
+layout: textlay
 excerpt: "LaFALA at UFBA."
 sitemap: false
 permalink: /cebic/
