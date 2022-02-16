@@ -3,7 +3,7 @@ layout: member
 title: Joceli Lima
 position: Visiting Scholar
 handle: Joceli Lima
-email: ANAGOIANA406@hotmail.com 
+email: jlima@uesb.edu.br 
 twitter:
 github:
 scholar: 
