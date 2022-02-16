@@ -6,7 +6,7 @@ sitemap: false
 permalink: /recruitment/
 ---
 
-# Open positions
+# Joining the Lab.
 
 Thank you for your interest in joining our lab our study group.
 
@@ -30,4 +30,8 @@ If you are interested in a rotation in our Lab, please contact <a href="mailto:k
 Indeed we have more ideas than students and trainees, so we are keen to welcome researchers. The lab offers a collaborative and supportive environment and has a strong track record in helping students develop and begin their own independent research careers. 
 
 If you are interested in a rotation in our Lab, please contact <a href="mailto:kupske@gmail.com">Dr. Kupske</a>. directly.
+
+## Visiting or using our facilities 
+
+If you are interested in visiting us or using our Lab equipment or facilities (e.g., microphones, acoustic booth etc), please contact our Lab. manager <a href="mailto:couto213@gmail.com">Rafael C Cardoso</a>. 
 
