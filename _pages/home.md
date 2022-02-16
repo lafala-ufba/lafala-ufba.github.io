@@ -6,8 +6,8 @@ sitemap: false
 permalink: /
 ---
 
-<p align="left">
-  <img src="/images/lafala1.png" width="650"/>
+<p align="center">
+  <img src="/images/lafala1.png" width="500"/>
 </p>
 
 
