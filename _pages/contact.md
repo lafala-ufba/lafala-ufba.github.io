@@ -20,9 +20,9 @@ Phone: (71) 3283-6209
 <br/>
 <a href="mailto:lafala.ufba@gmail.com">lafala.ufba@gmail.com</a>. 
 
-<img src="{{ site.url }}{{ site.baseurl }}/images/contactpic/map.png" style="width: 600px">
+<img src="/images/contactpic/map.png" style="width: 600px">
 
- 
+<br/>
 ### Public transport
 To be updated 
  
