@@ -42,10 +42,10 @@ If you are interested in joining us please go to the [recruitment](recruitment) 
 ### Funding
 We are grateful for funding from the [National Council for Scientific and Technological Development (CNPq)](https://www.gov.br/cnpq/pt-br) and the [Coordination for the Improvement of Higher Education Personnel](https://www.gov.br/capes/pt-br), and the [Fundação de Amparo à Pesquisa do Estado da Bahia](http://www.fapesb.ba.gov.br/).
 
-<figure class="third">
-<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_NIMH.png" style="width: 200px">	<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_SFARI.png" style="width: 200px">
 
-<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_ASF.jpeg" style="width: 200px"> <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_BBRF.png" style="width: 200px">
-</figure>
+
+<p align="center">
+  <img src="/images/logos.png" width="500"/>
+</p>
 
 
