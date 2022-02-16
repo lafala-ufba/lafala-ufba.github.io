@@ -13,7 +13,7 @@ permalink: /
 ### Welcome to the Speech Sciences Laboratory at UFBA!
 
 <br/>
-Drawing on ideas and methods from (but **not solely!**) Psycholinguistics, Laboratory Phonology, Sociolinguistics/Sociophonetics and Experimental Phonetics, our laboratory aims to investigate the multiple facets of native and non-native speech perception and production, such as speech development, variation and change, bilingualism and pronunciation teaching. 
+Drawing on ideas and methods from (but **not solely!**) Psycholinguistics, Laboratory Phonology, Sociolinguistics/Sociophonetics and Experimental Phonetics, our laboratory aims to investigate the multiple facets of native and non-native speech perception and production, such as speech development, variation and change, bilingualism and language processing in the brain. 
 
 
 <img align="right" src="/images/logocentro.png" width="200">
