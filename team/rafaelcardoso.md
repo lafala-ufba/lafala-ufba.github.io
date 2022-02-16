@@ -7,7 +7,7 @@ email: couto213@gmail.com
 twitter:
 github:
 scholar: 
-photo: rafaelcardoso.jpg
+photo: rafaelcardoso.jpeg
 ucsf: 
 ---
 
