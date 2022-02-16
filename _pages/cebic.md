@@ -3,9 +3,10 @@ title: "LaFALA - CeBiC"
 layout: homelay
 excerpt: "LaFALA at UFBA."
 sitemap: false
-permalink: /
+permalink: /cebic/
 ---
 
-<p align="left">
-  <img src="/images/lafala1.png" width="460"/>
+
+<p align="center">
+  <img src="/images/lococentro.png" width="500"/>
 </p>
