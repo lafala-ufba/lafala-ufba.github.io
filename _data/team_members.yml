@@ -45,4 +45,16 @@
   info: Undergraduate Student (IC-CNPq)
   url: camilarocha
   group: 3
+  
+- name: Jeferson R Oliveira
+  photo: jefersonoliveira.jpg
+  info: Undergraduate Student (IC-UFBA)
+  url: jefersonoliveira
+  group: 3
+  
+- name: Joceli R Lima
+  photo: jocelilima.jpg
+  info: Visiting Scholar
+  url: jocelilima
+  group: 4
 
