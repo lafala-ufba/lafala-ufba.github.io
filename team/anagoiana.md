@@ -19,4 +19,4 @@ Graduate Student. Doctorate.
 
 ### Education
 - Doctorate (in progress) in Language and Culture, Federal University of Bahia, Salvador
-- Lic. in Modern Languages (English and English Literature), Federal University of Bahia, Salvador, 2019
+- Lic. in Modern Languages (English and English Literature), Federal University of Bahia, Salvador
