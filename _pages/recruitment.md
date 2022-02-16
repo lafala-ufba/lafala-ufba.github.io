@@ -12,9 +12,11 @@ Thank you for your interest in joining our lab our study group.
 
 ## Joining the study group
 
-If you are interested in joining our study group, contact us: lafala-ufba at gmail.com
+If you are interested in joining our study group, contact us!
 
 ## Undergraduate students
+
+If you are interested in joining the lab, contact us!
 
 ## Graduate students
 
