@@ -3,7 +3,7 @@ title: "LaFALA - study group"
 layout: textlay
 excerpt: "LaFALA -- study group."
 sitemap: false
-permalink: /study group/
+permalink: /studygroup/
 ---
 
 
