@@ -20,7 +20,7 @@ Even with a special attention given to *Phonetics* and *Phonology* and to *oral 
 Over the past years, there has been clear progress in *Experimental Linguistics*, and we seek to continue this progress and to leverage the area to build a more complete understanding of **language** and to extend this knowledge to other branches of science.
 
 
-<img align="left" src="/images/centro-grupo.png" width="340">
+<img align="left" src="/images/logocentro.png" width="340">
 <br/>
 Our lab. also hosts a **Center for Bilingualism and Complexity Studies** and a **Study Group**. Check our tabs!
 <br clear="left"/>
@@ -34,6 +34,7 @@ LaFALA has five main areas of research:
 3. **Speech Perception and Production**: ...
 4. **Heritage and Endangered Languages**: ...
 5. **Language Adaptability over lifespan**: ...
+
 ### Technologies and methods
 The Lab is primarily a Laboratory Phonology group that uses a wide range of tools and statistical methods including.
 
