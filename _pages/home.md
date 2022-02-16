@@ -21,7 +21,6 @@ Even with a special attention given to *Phonetics* and *Phonology* and to *oral 
 
 Over the past years, there has been clear progress in *Experimental Linguistics*, and we seek to continue this progress and to leverage the area to build a more complete understanding of **language** and to extend this knowledge to other branches of science.
 
-LaFALA  However, the Center for Bilingualism and Complexity Studies is ***exclusively*** anchored on the Complex Dynamic System Theory (an umbrella term that covers many other theories e.g. Complexity Theory, Dynamic System Theory, Chaos Theory etc.) and seeks to investigate bilingualism.
 Our lab. also hosts a **Center for Bilingualism and Complexity Studies** and a **Study Group**. Check our tabs!
 <br clear="left"/>
 
