@@ -1,13 +1,13 @@
 ---
-title: "Sanders Lab - Code"
+title: "LaFALA - study group"
 layout: textlay
-excerpt: "Sanders Lab -- Code."
+excerpt: "LaFALA -- study group."
 sitemap: false
-permalink: /code/
+permalink: /study group/
 ---
 
 
-# Code
+# Study group
 
 ---
 
