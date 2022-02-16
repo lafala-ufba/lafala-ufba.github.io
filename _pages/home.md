@@ -11,29 +11,6 @@ permalink: /
 </p>
 
 
-### Welcome to the Speech Sciences Laboratory at UFBA!
-<br/>
-Drawing on ideas and methods from (but **not solely!**) Psycholinguistics, Laboratory Phonology, Sociolinguistics/Sociophonetics and Experimental Phonetics, our laboratory aims to investigate the multiple facets of native and non-native speech perception and production, such as speech development, variation and change, bilingualism and pronunciation teaching. 
-
-Even with a special attention given to *Phonetics* and *Phonology* and to *oral production*, we are very interested in investigating interface phenomena, including other linguistic levels and cognitive processes. We are also interested in bilingual studies involving sign languages. 
-
-Over the past years, there has been clear progress in *Experimental Linguistics*, and we seek to continue this progress and to leverage the area to build a more complete understanding of **language** and to extend this knowledge to other branches of science.
-
-
-<img align="left" src="/images/logocentro.png" width="150">
-<br/>
-Our lab. also hosts a **Center for Bilingualism and Complexity Studies** and a **Study Group**. Check our tabs!
-<br clear="left"/>
-
-<br/>
-
-LaFALA has five main areas of research:
-
-1. **Language Acquisition**: ....
-2. **Language Attritio**: ...
-3. **Speech Perception and Production**: ...
-4. **Heritage and Endangered Languages**: ...
-5. **Language Adaptability over lifespan**: ...
 
 ### Technologies and methods
 The Lab is primarily a Laboratory Phonology group that uses a wide range of tools and statistical methods including.
