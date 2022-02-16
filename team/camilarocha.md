@@ -13,7 +13,7 @@ ucsf:
 
 ### Overview
 
-Undergraduate Student. Doctorate. 
+Undergraduate Student. 
 
 ### Experience and Academic Appointments
 
