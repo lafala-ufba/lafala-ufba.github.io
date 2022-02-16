@@ -7,13 +7,17 @@ permalink: /
 ---
 
 <p align="center">
-  <img src="/images/lafala1.png" width="500"/>
+  <img src="/images/lafala1.png" width="400"/>
 </p>
 
 
 ### Welcome to the Speech Sciences Laboratory at UFBA!
 <br/>
-Our Lab aims to ...  through the discovery of ..... Over the past few years there has been rapid progress in identifying ..... We aim to continue this progress, leverage these findings to build a more complete understanding of ....., and to extend this approach to other human disorders, including congenital malformations.
+Drawing on ideas and methods from (but **not solely!**) Psycholinguistics, Laboratory Phonology, Sociolinguistics/Sociophonetics and Experimental Phonetics, our laboratory aims to investigate the multiple facets of native and non-native speech perception and production, such as speech development, variation and change, bilingualism and pronunciation teaching. 
+
+Even with a special attention given to *Phonetics* and *Phonology* and to *oral production*, we are very interested in investigating interface phenomena, including other linguistic levels and cognitive processes. We are also interested in bilingual studies involving sign languages. 
+
+Over the past years, there has been clear progress in *Experimental Linguistics*, and we seek to continue this progress and to leverage the area to build a more complete understanding of **language** and to extend this knowledge to other branches of science.
 
 
 <img align="left" src="/images/centro-grupo.png" width="340">
