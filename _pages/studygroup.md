@@ -10,7 +10,7 @@ permalink: /studygroup/
 # Study group
 
 ---
-![]({{ site.url }}{{ site.baseurl }}/images/logogrupo.jpeg){: style="width: 200px; float: left;margin-right: 30px; border: 10px"}
+![]({{ site.url }}{{ site.baseurl }}/images/logogrupo.png){: style="width: 200px; float: left;margin-right: 30px; border: 10px"}
 
 ## *LaFALA's Study Group*
 <div style="text-align: justify">
