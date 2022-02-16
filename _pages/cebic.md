@@ -8,7 +8,7 @@ permalink: /cebic/
 
 ## *Center for Bilingualism and Complexity Studies*
 
-![]({{ site.url }}{{ site.baseurl }}/images/logocentro.png){: style="width: 270px; float: left;margin-right: 30px; border: 10px"}
+![]({{ site.url }}{{ site.baseurl }}/images/logocentro.png){: style="width: 250px; float: left;margin-right: 30px; border: 10px"}
 
 <div style="text-align: justify">
 <br/>
