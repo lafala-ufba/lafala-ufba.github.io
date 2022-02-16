@@ -7,7 +7,7 @@ permalink: /
 ---
 
 <p align="left">
-  <img src="/images/lafala1.png" width="400"/>
+  <img src="/images/lafala1.png" width="420"/>
 </p>
 
 
@@ -29,5 +29,3 @@ We are grateful for funding from the [National Council for Scientific and Techno
 <p align="center">
   <img src="/images/logos.png" width="500"/>
 </p>
-
-
