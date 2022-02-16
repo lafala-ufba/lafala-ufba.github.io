@@ -17,7 +17,7 @@ If you are interested in joining our study group, contact us - <a href="mailto:l
 
 ## Undergraduate students
 
-If you are interested in joining the lab, contact us ontact us - <a href="mailto:lafala.ufba@gmail.com">lafala.ufba@gmail.com</a>.
+If you are interested in joining the lab, contact us - <a href="mailto:lafala.ufba@gmail.com">lafala.ufba@gmail.com</a>.
 
 ## Graduate students
 
