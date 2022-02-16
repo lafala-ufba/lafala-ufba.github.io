@@ -6,9 +6,9 @@ sitemap: false
 permalink: /recruitment/
 ---
 
-# Joining the Lab.
+# Joining the Lab or CeBiC
 
-Thank you for your interest in joining our lab our study group.
+Thank you for your interest in joining our lab or Center of Bilingualism and Complexity Studies, please contact <a href="mailto:kupske@gmail.com">Dr. Kupske</a>. directly.
 
 ## Joining the study group
 
