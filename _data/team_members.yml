@@ -1,25 +1,25 @@
 - name: Felipe F Kupske
   photo: felipekupske.jpg
-  info: Full Professor (UFBA)
+  info: Researcher (UFBA)
   url: felipekupske
   group: 0
   
 - name: Ivana P Ivo
   photo: ivanaivo.jpeg
-  info: Full Professor (UFBA)
+  info: Researcher (UFBA)
   url: ivanaivo
   group: 1
 
 - name: Reiner V Perozzo
   photo: reinerperozzo.png
-  info: Full Professor (UFRGS)
+  info: Researcher (UFRGS)
   url: reinerperozzo
   group: 1
 
-- name: Nick Page
-  photo: nickpage.jpg
-  info: Graduate Student
-  url: nickpage
+- name: Ubiratã K Alves
+  photo: ubirataalves.jpeg
+  info: Researcher 
+  url: ubirataalves
   group: 1
 
 - name: Rafael C Cardoso
