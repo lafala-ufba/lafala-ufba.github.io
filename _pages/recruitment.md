@@ -1,5 +1,5 @@
 ---
-title: "Sanders Lab - Recruitment"
+title: "LaFALA - Recruitment"
 layout: textlay
 excerpt: "Openings"
 sitemap: false
@@ -8,13 +8,20 @@ permalink: /recruitment/
 
 # Open positions
 
-Thank you for your interest in joining the Sanders Lab.
+Thank you for your interest in joining our lab our study group.
+
+## Joining the ftudy group
+
+## Undergraduate students
 
 ## Graduate students
 
-Dr. Sanders is a member of the [Neuroscience graduate program (part of PIBS)](https://neurograd.ucsf.edu/about-neuroscience-graduate-program) and the [Pharmaceutical Sciences and Pharmacogenomics (PSPG) graduate program](https://pspg.ucsf.edu), which is part of the [Quantitative Biosciences Consortium (QBC)](https://qbc.ucsf.edu). If you are interested in a rotation in the Sanders Lab, please contact Dr. Sanders directly using the details on his [USCF profile page](https://profiles.ucsf.edu/stephan.sanders). We are primarily a computational lab working on the genetics of neurodevelopmental disorders, so a background in coding and/or genetics helps students make the most of their rotation.
+Our researchers are members of different Graduate Program. Therefore, if you are interested in being supervised by a specific researcher, please contact her/him/them using the details on our Team tab.
 
-If you are interested, please contact Dr. Sanders directly using the details on his [USCF profile page](https://profiles.ucsf.edu/stephan.sanders).
+If you are interested in a rotation in our Lab, please contact Dr. Kupske directly.
+
+We are primarily an Experimental Linguistics lab, so a background in the area and in coding (R and Python) and data analysis (R or Python) helps students make the most of their rotation.
+
 
 ## Postdoctoral researchers
 
