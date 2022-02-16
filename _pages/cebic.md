@@ -8,7 +8,7 @@ permalink: /cebic/
 
 ## *Center for Bilingualism and Complexity Studies*
 
-![]({{ site.url }}{{ site.baseurl }}/images/logocentro.png){: style="width: 250px; float: left;margin-right: 30px; border: 10px"}
+![]({{ site.url }}{{ site.baseurl }}/images/logocentro.png){: style="width: 270px; float: left;margin-right: 30px; border: 10px"}
 
 <div style="text-align: justify">
 <br/>
@@ -18,4 +18,4 @@ CeBiC investigates the linguistic, social and cognitive processes that support a
   
 </div>
 
-If you are interested in joining us please go to the [recruitment](recruitment) page.
+If you are interested in joining us please go to the recruitment page (link at the bottom).
