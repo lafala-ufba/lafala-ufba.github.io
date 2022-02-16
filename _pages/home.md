@@ -19,7 +19,7 @@ Drawing on ideas and methods from (but **not solely!**) Psycholinguistics, Labor
 <img align="right" src="/images/logocentro.png" width="200">
 Even with a special attention given to *Phonetics* and *Phonology* and to *oral production*, we are very interested in investigating interface phenomena, including other linguistic levels and cognitive processes. We are also interested in bilingual studies involving sign languages. 
 
-Over the past years, there has been a clear progress in *Experimental Linguistics*, and we seek to continue this progress and to leverage the area to build a more complete understanding of **language** and to extend this knowledge to other branches of science.
+Over the past years, there has been a clear progress in *Experimental Linguistics*, and we seek to continue this progress and to leverage the area to build a more complete understanding of **language**, extending this knowledge to other branches of science.
 
 Our lab also hosts a **Center for Bilingualism and Complexity Studies** (CeBiC) and a **Study Group**. Check our tabs!
 <br clear="right"/>
