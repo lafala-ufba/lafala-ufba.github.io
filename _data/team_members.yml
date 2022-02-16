@@ -24,28 +24,46 @@
 
 - name: Rafael C Cardoso
   photo: rafaelcardoso.jpeg
-  info: Graduate Student and Lab Manager
+  info: Graduate Student (MA) and Lab Manager
   url: rafaelcardoso
   group: 2
 
 - name: Agatha Rabelo
   photo: agatharabelo.jpeg
-  info: Graduate Student
+  info: Graduate Student (MA)
   url: agatharabelo
   group: 2
-      
-- name: Lindsay Liang
-  photo: lindsayliang.jpg
-  info: Bioinformatics Programmer II
-  url: lindsayliang
+  
+ - name: Ana Goiana
+  photo: anagoiana.jpg
+  info: Graduate Student (Doctorate)
+  url: anagoiana
+  group: 2
+  
+- name: Camila B Rocha
+  photo: camilarocha.jpg
+  info: Undergraduate Student (IC-CNPq)
+  url: camilarocha
   group: 3
 
-- name: Michael Gilson
-  photo: michaelgilson.jpg
-  info: Bioinformatics Programmer III
-  url: michaelgilson
+- name: Jeferson R Oliveira
+  photo: jefersonoliveira.jpg
+  info: Undergraduate Student (IC-UFBA)
+  url: jefersonoliveira
+  group: 3
+  
+- name: Joceli R Lima
+  photo: jocelilima.jpg
+  info: Visiting Scholar
+  url: jocelilima
+  group: 4
+  
+- name: Flávio Oliveira
+  photo: flaviooliveira.jpg
+  info: Undergraduate Student (IC-CNPq)
+  url: flaviooliveira
   group: 8
-  year: 2015-2021
+  year: 2019-2020
 
   
 
