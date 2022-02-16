@@ -12,9 +12,9 @@ permalink: /
 
 
 ## Welcome to the Speech Sciences Laboratory at UFBA!
-
-
+<br/>
 Our Lab aims to ...  through the discovery of ..... Over the past few years there has been rapid progress in identifying ..... We aim to continue this progress, leverage these findings to build a more complete understanding of ....., and to extend this approach to other human disorders, including congenital malformations.
+
 <br/>
 
 <img align="left" src="/images/centro-grupo.png" width="340">
@@ -22,6 +22,7 @@ Our Lab aims to ...  through the discovery of ..... Over the past few years ther
 Our lab. also hosts a **Center for Bilingualism and Complexity Studies** and a **Study Group**. Check our tabs!
 <br clear="left"/>
 
+<br/>
 
 LaFALA has five main areas of research:
 
