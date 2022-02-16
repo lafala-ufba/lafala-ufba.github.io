@@ -45,7 +45,7 @@ permalink: /team/
 
 ---
 
-## Trainees and Graduate Students
+## Researchers
 {% assign number_printed = 0 %}
 {% for member in site.data.team_members %}
 
@@ -78,7 +78,7 @@ permalink: /team/
 
 ---
 
-## Undergraduate Students
+## Trainees and Graduate Students
 {% assign number_printed = 0 %}
 {% for member in site.data.team_members %}
 
@@ -111,7 +111,7 @@ permalink: /team/
 
 ---
 
-## PsychCore Genomics Core
+## Undergraduate Students
 {% assign number_printed = 0 %}
 {% for member in site.data.team_members %}
 
