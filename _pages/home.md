@@ -35,7 +35,7 @@ LaFALA has five main areas of research:
 
 
 ### Technologies and methods
-The Lab is primarily a Laboratory Phonology group that uses a wide range of tools and statistical methods. 
+The Lab is primarily a Laboratory Phonology group that uses a wide range of tools and statistical methods. Experimental methods in Psycholinguistics and Experimental Phonetics (mainly Acoustic phonetics) are pillar to our lab.
 
 ### Collaborators
 We work with closely with numerous collaborators, including [LABICO](https://www.mstatelab.com/) at UFRGS and [NUPFFALE](https://benderlab.ucsf.edu/lab-members) at UFSC.
