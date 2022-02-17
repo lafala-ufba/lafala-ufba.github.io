@@ -27,6 +27,12 @@
   info: Researcher (UFRGS)
   url: ubirataalves
   group: 1
+  
+- name: Joceli R Lima
+  photo: jocelilima.jepg
+  info: Visiting Scholar
+  url: jocelilima
+  group: 4
 
 - name: Rafael C Cardoso
   photo: rafaelcardoso.jpeg
@@ -58,12 +64,6 @@
   url: jefersonoliveira
   group: 3
   
-- name: Joceli R Lima
-  photo: jocelilima.jpg
-  info: Visiting Scholar
-  url: jocelilima
-  group: 4
-
 - name: Flávio Oliveira
   photo: flaviooliveira.jpeg
   info: Undergraduate Student (IC-CNPq)
