@@ -21,7 +21,7 @@ If you are interested in joining the lab, contact us - <a href="mailto:lafala.uf
 
 ## Graduate students
 
-Our researchers are members of different Graduate Program. Therefore, if you are interested in being supervised by a specific researcher, please contact her/him/them using the details on our Team tab.
+Our researchers are members of different Graduate Programs. Therefore, if you are interested in being supervised by a specific researcher, please contact her/him/them using the details on our Team tab.
 
 If you are interested in a rotation in our Lab, please contact <a href="mailto:kupske@gmail.com">Dr. Kupske</a>. directly. We are primarily an Experimental Linguistics lab, so a background in the area and in coding (R and Python) and data analysis (R or Python) helps students make the most of their rotation but is not mandatory.
 
