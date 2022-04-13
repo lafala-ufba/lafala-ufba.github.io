@@ -7,7 +7,7 @@ email: jefersonromao.letras@gmail.com
 twitter:
 github:
 scholar: 
-photo: jefersonoliveira.jpeg
+photo: jefersonoliveira.png
 ucsf: 
 ---
 
